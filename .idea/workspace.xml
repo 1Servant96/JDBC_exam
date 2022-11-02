@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053b6526-e31c-44c7-8a07-c93a28df7ad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peaksoft/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peaksoft/Service/ServiceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peaksoft/config/DataBaseConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peaksoft/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/peaksoft/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/peaksoft/AppTest.java" afterDir="false" />
+    <list default="true" id="053b6526-e31c-44c7-8a07-c93a28df7ad7" name="Changes" comment="jdbc_exam_task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/dao/DAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +84,17 @@
       <updated>1667309348134</updated>
       <workItem from="1667309351381" duration="254000" />
       <workItem from="1667309614308" duration="8604000" />
-      <workItem from="1667356426920" duration="2263000" />
+      <workItem from="1667356426920" duration="3391000" />
+      <workItem from="1667377015494" duration="1547000" />
     </task>
+    <task id="LOCAL-00001" summary="jdbc_exam_task">
+      <created>1667358841981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667358841981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdbc_exam_task" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc_exam_task" />
   </component>
 </project>

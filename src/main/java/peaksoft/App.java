@@ -37,7 +37,7 @@ public class App {
 
     public static void queries() {
         System.out.println("Press 1 to create the table\n" +
-                "Press 2 to read the table\n" +
+                "Press 2 to read the person by id\n" +
                 "Press 3 to update the table\n" +
                 "Press 4 to delete the table\n" +
                 "Press 5 to insert into the table students\n"
